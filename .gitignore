@@ -1,0 +1,23 @@
+# Project name: merge_ts
+
+# Node.js related
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# TypeScript related
+dist/
+*.tsbuildinfo
+
+# Jest
+coverage/
+jest.config.js
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.log
+
